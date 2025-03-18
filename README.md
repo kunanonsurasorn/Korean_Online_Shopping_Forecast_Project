@@ -38,31 +38,38 @@
    
        5.1.3 ค่า Mean Absolute Percentage Error ของโมเดลก่อนคือ 0.0528
    
-       5.1.4 ค่า Mean Squared Error ของโมเดลก่อนคือ 0.0528
+       5.1.5 Parameter ของโมเดลหลังปรับปรุงประกอบด้วย trend = 'add' , seasonal = 'add' , sp = 12 , smoothing_level = 0, smoothing_trend = 0, smoothing_seasonal = 0
    
-       5.1.5 
+       5.1.6 ค่า Mean Absolute Error ของโมเดลหลังคือ 94618.8294
+   
+       5.1.7 ค่า Mean Absolute Percentage Error ของโมเดลหลังคือ 0.0528
    
  ### 5.2 การพยากรณ์สินค้าประเภท Footwear
  
-       5.2.1 
+       5.1.1 Parameter ของโมเดลก่อนปรับปรุงประกอบด้วย trend = 'add' , seasonal = 'add' , sp = 12 , smoothing_level = 0, smoothing_trend = 0, smoothing_seasonal = 0
    
-       5.2.2 
+       5.1.2 ค่า Mean Absolute Error ของโมเดลก่อนคือ 94618.8294
    
-       5.2.3 
+       5.1.3 ค่า Mean Absolute Percentage Error ของโมเดลก่อนคือ 0.0528
    
-       5.2.4 
+       5.1.5 Parameter ของโมเดลหลังปรับปรุงประกอบด้วย trend = 'add' , seasonal = 'add' , sp = 12 , smoothing_level = 0, smoothing_trend = 0, smoothing_seasonal = 0
    
-       5.2.5 
+       5.1.6 ค่า Mean Absolute Error ของโมเดลหลังคือ 94618.8294
+   
+       5.1.7 ค่า Mean Absolute Percentage Error ของโมเดลหลังคือ 0.0528
 
  ### 5.3 การพยากรณ์สินค้าประเภท Fashion และ Accessories
  
-       5.2.1 
+       5.1.1 Parameter ของโมเดลก่อนปรับปรุงประกอบด้วย trend = 'add' , seasonal = 'add' , sp = 12 , smoothing_level = 0, smoothing_trend = 0, smoothing_seasonal = 0
    
-       5.2.2 
+       5.1.2 ค่า Mean Absolute Error ของโมเดลก่อนคือ 94618.8294
    
-       5.2.3 
+       5.1.3 ค่า Mean Absolute Percentage Error ของโมเดลก่อนคือ 0.0528
    
-       5.2.4 
+       5.1.5 Parameter ของโมเดลหลังปรับปรุงประกอบด้วย trend = 'add' , seasonal = 'add' , sp = 12 , smoothing_level = 0, smoothing_trend = 0, smoothing_seasonal = 0
    
-       5.2.5 
+       5.1.6 ค่า Mean Absolute Error ของโมเดลหลังคือ 94618.8294
+   
+       5.1.7 ค่า Mean Absolute Percentage Error ของโมเดลหลังคือ 0.0528
+   
    
